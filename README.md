@@ -4,3 +4,6 @@ This project is an example of the implementation of React and React Hooks techno
 
 To run the project locally use:
 `$ docker-compose up`
+
+Try it here:
+https://tetris-js-marco.web.app
